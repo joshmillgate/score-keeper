@@ -1,0 +1,18 @@
+.player {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.player__name {
+  font-weight: 1.8rem;
+}
+
+.player__stats {
+  margin-top: .4rem;
+  font-style: italic;
+}
+
+.player__actions {
+  flex-shrink: 0;
+}
